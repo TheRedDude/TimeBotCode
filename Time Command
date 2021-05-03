@@ -10,3 +10,9 @@ client.on('message', message =>{
         message.channel.send(currentDate.toLocaleString());
     }
 });
+
+BELOW IS SOME IMPORTANT INFO
+
+WARNING THIS IS ONLY THE CODE YOU MUST SETUP EVERYTHING ELSE UP ON YOUR OWN
+
+https://youtu.be/j_sD9udZnCk = Great tutorial for setting up the bot (NOT MINE).
